@@ -75,8 +75,8 @@
 |--------|--------|
 | 📂 Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https://api.github.com/users/quinjitech) |
 | ⭐ Stars Earned | ![Stars](https://img.shields.io/github/stars/quinjitech?style=social) |
-| 🔄 Pull Requests | ![PRs](https://img.shields.io/badge/dynamic/json?color=blue&label=Pull%20Requests&query=%24.total_count&url=https://api.github.com/search/issues?q=author:quinjitech+type:pr) |
-| 🎯 Issues Resolved | ![Issues](https://img.shields.io/badge/dynamic/json?color=blue&label=Issues&query=%24.total_count&url=https://api.github.com/search/issues?q=author:quinjitech+type:issue) |
+| 🔄 Pull Requests | ![PRs](https://img.shields.io/github/issues-pr/quinjitech/quinjitech?style=flat&label=Pull%20Requests) |
+| 🎯 Issues Resolved | ![Issues](https://img.shields.io/github/issues-closed/quinjitech/quinjitech?style=flat&label=Issues%20Resolved) |
 
 </div>
 
