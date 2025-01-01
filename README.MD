@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/company/quinji-tech/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/quinji?style=social)](https://x.com/quinji)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://instagram.com/quinjitech)
+[![Instagram Followers](https://img.shields.io/badge/Instagram_Followers-2.5k-E4405F?logo=instagram&style=flat-square)](https://instagram.com/quinjitech)
 [![GitHub followers](https://img.shields.io/github/followers/quinjitech?label=Follow&style=social)](https://github.com/quinjitech)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.quinji.com)](https://www.quinji.com)
 [![Last Commit](https://img.shields.io/github/last-commit/quinjitech/quinjitech)](https://github.com/quinjitech)
