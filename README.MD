@@ -94,14 +94,6 @@
 
 </div>
 
-## 🤝 Activity Metrics
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quinjitech&theme=radical)](https://github.com/quinjitech)
-
-</div>
-
 ## 🤝 Let's Connect
 
 - 🌐 Website: [www.quinji.com](https://www.quinji.com)
@@ -110,14 +102,6 @@
 - 🐦 Twitter: [@quinji](https://x.com/quinji)
 - 📸 Instagram: [@quinji](https://instagram.com/quinjitech)
 
-## ☕ Support Us
-
-<div align="center">
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/quinjitech)
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/quinjitech)
-
-</div>
 
 ---
 
