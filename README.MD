@@ -66,6 +66,21 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quinjitech&layout=compact&theme=radical)
 
+## 📊️ Skills & Technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
 ## 📊 Contribution Overview
 
 <div align="center">
@@ -79,6 +94,14 @@
 
 </div>
 
+## 🤝 Activity Metrics
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quinjitech&theme=radical)](https://github.com/quinjitech)
+
+</div>
+
 ## 🤝 Let's Connect
 
 - 🌐 Website: [www.quinji.com](https://www.quinji.com)
@@ -87,8 +110,26 @@
 - 🐦 Twitter: [@quinji](https://x.com/quinji)
 - 📸 Instagram: [@quinji](https://instagram.com/quinjitech)
 
+## ☕ Support Us
+
+<div align="center">
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/quinjitech)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/quinjitech)
+
+</div>
+
 ---
 
 <div align="center">
   <p>© 2025 Quinji. All rights reserved.</p>
+</div>
+
+<div align="center">
+
+![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=quinjitech.quinjitech&color=00cf00)
+[![Years Badge](https://badges.pufler.dev/years/quinjitech)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/quinjitech)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/quinjitech)](https://badges.pufler.dev)
+
 </div>
