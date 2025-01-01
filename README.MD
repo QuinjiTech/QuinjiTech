@@ -57,7 +57,6 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=QuinjiTech&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![QuinjiTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=quinjitech&show_icons=true&theme=radical&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=quinjitech&theme=radical&row=1)](https://github.com/quinjitech)
 
