@@ -87,12 +87,6 @@
 - 🐦 Twitter: [@quinji](https://x.com/quinji)
 - 📸 Instagram: [@quinji](https://instagram.com/quinjitech)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be automatically updated using GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 <div align="center">
