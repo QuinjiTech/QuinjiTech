@@ -8,10 +8,14 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)](https://github.com/your-username)
+[![Profile Views](https://komarev.com/ghpvc/?username=quinjitech&color=brightgreen)](https://github.com/quinjitech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/company/quinji-tech/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/quinji?style=social)](https://x.com/quinji)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://instagram.com/quinjitech)
+[![GitHub followers](https://img.shields.io/github/followers/quinjitech?label=Follow&style=social)](https://github.com/quinjitech)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.quinji.com)](https://www.quinji.com)
+[![Last Commit](https://img.shields.io/github/last-commit/quinjitech/quinjitech)](https://github.com/quinjitech)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/quinjitech)
 
 </div>
 
@@ -53,7 +57,9 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quinjitech&theme=dark)](https://github.com/quinjitech)
+[![GitHub Streak](https://streak-stats.demolab.com?user=quinjitech&theme=radical)](https://git.io/streak-stats)
+![QuinjiTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=quinjitech&show_icons=true&theme=radical&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=quinjitech&theme=radical&row=1)](https://github.com/quinjitech)
 
 </div>
 
