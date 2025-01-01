@@ -56,6 +56,7 @@
 ## 📈 GitHub Metrics
 
 <div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=quinjitech&theme=radical&row=1)](https://github.com/quinjitech)
 
 </div>
