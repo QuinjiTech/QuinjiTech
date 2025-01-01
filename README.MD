@@ -9,9 +9,9 @@
 <div align="center">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/company/quinji)
-[![Twitter Follow](https://img.shields.io/twitter/follow/quinji?style=social)](https://twitter.com/quinji)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://instagram.com/quinji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/company/quinji-tech/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/quinji?style=social)](https://x.com/quinji)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://instagram.com/quinjitech)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quinjitech&show_icons=true&theme=radical)
 
 </div>
 
@@ -53,13 +53,13 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)](https://github.com/your-username)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quinjitech&theme=dark)](https://github.com/quinjitech)
 
 </div>
 
 ## 🔧 Technologies & Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quinjitech&layout=compact&theme=radical)
 
 ## 📊 Contribution Overview
 
@@ -67,10 +67,10 @@
   
 | Metric | Count |
 |--------|--------|
-| 📂 Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https://api.github.com/users/your-username) |
-| ⭐ Stars Earned | ![Stars](https://img.shields.io/github/stars/your-username?style=social) |
-| 🔄 Pull Requests | ![PRs](https://img.shields.io/badge/dynamic/json?color=blue&label=Pull%20Requests&query=%24.total_count&url=https://api.github.com/search/issues?q=author:your-username+type:pr) |
-| 🎯 Issues Resolved | ![Issues](https://img.shields.io/badge/dynamic/json?color=blue&label=Issues&query=%24.total_count&url=https://api.github.com/search/issues?q=author:your-username+type:issue) |
+| 📂 Repositories | ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=%24.public_repos&url=https://api.github.com/users/quinjitech) |
+| ⭐ Stars Earned | ![Stars](https://img.shields.io/github/stars/quinjitech?style=social) |
+| 🔄 Pull Requests | ![PRs](https://img.shields.io/badge/dynamic/json?color=blue&label=Pull%20Requests&query=%24.total_count&url=https://api.github.com/search/issues?q=author:quinjitech+type:pr) |
+| 🎯 Issues Resolved | ![Issues](https://img.shields.io/badge/dynamic/json?color=blue&label=Issues&query=%24.total_count&url=https://api.github.com/search/issues?q=author:quinjitech+type:issue) |
 
 </div>
 
@@ -78,9 +78,9 @@
 
 - 🌐 Website: [www.quinji.com](https://www.quinji.com)
 - 📧 Email: contact@quinji.com
-- 💼 LinkedIn: [Quinji](https://linkedin.com/company/quinji)
-- 🐦 Twitter: [@quinji](https://twitter.com/quinji)
-- 📸 Instagram: [@quinji](https://instagram.com/quinji)
+- 💼 LinkedIn: [Quinji](https://linkedin.com/company/quinji-tech)
+- 🐦 Twitter: [@quinji](https://x.com/quinji)
+- 📸 Instagram: [@quinji](https://instagram.com/quinjitech)
 
 ## 📝 Latest Blog Posts
 
