@@ -127,7 +127,7 @@
 
 <div align="center">
 
-![Visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=quinjitech.quinjitech&color=00cf00)
+![Visitors](https://komarev.com/ghpvc/?username=quinjitech&color=brightgreen&style=flat-square)
 [![Years Badge](https://badges.pufler.dev/years/quinjitech)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/quinjitech)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/quinjitech)](https://badges.pufler.dev)
