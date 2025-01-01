@@ -56,8 +56,6 @@
 ## 📈 GitHub Metrics
 
 <div align="center">
-  
-![QuinjiTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=quinjitech&show_icons=true&theme=radical&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=quinjitech&theme=radical&row=1)](https://github.com/quinjitech)
 
 </div>
