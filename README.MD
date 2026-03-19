@@ -24,4 +24,4 @@ No guessing. No "try restarting it." We read the logs, find the root cause, fix 
 
 - **Packages & pricing:** [quinji.com/packages](https://quinji.com/packages)
 - **Book a call:** [quinji.com](https://quinji.com)
-- **Email:** contact@quinji.com
+- **Email:** sales@quinji.com
